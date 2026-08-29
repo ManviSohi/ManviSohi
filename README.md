@@ -37,7 +37,7 @@
 ```javascript
 const manvi = {
     role: "3rd Year B.Tech CSE Student",
-    stack: ["React", "Node.js", "Firebase", "MongoDB"],
+    stack: ["React", "Node.js", "Firebase", "PostgreSQL"],
     focus: ["Full Stack Development", "AI-Powered Applications", "Open Source"],
     currentlyLearning: ["Next.js", "RAG Systems", "System Design"],
     funFact: "I debug with console.log and I'm not ashamed 😄"
@@ -70,7 +70,7 @@ const manvi = {
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark" />
 
 **AI / ML**
 
@@ -193,7 +193,7 @@ const manvi = {
 
 ## 🧭 Currently Working On
 
-- 🔭 Building end-to-end **Full Stack Web Applications** (React + Node + Firebase/MongoDB)
+- 🔭 Building end-to-end **Full Stack Web Applications** (React + Node + Firebase/PostgreSQL)
 - 🤖 Shipping **AI + RAG powered projects** with LangChain & vector search
 - 🔥 Deepening **Firebase integrations** — Auth, Firestore, Storage, Cloud Functions
 - 🧱 Designing clean, scalable **backend APIs**
